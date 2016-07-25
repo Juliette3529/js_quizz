@@ -1,0 +1,15 @@
+h1{
+    color:mediumslateblue;
+    text-decoration:underline;
+    text-decoration-color:orangered;
+    text-transform: uppercase;
+}
+button{
+    width:100%;
+    height:50px;
+    background-color:white;
+    border:1px solid black;
+}
+.nopadding{
+    padding:0px;
+}
