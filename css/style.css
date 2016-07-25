@@ -10,3 +10,10 @@ h1{
 button{
     width:100%;
 }
+.btn-primary{
+    margin-top:25px;
+}
+
+.none {
+    display:none;
+}
