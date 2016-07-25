@@ -8,7 +8,7 @@ $(".good").click(function () {
     score ++;
     $(".Felicitations").html('Vous avez'+ score +'/10');
 });
-$(".Felicitations").html('Vous avez'+ score +'/10');
+$(".Felicitations").html('Vous avez   '+ score +'  /10 !');
 });
 
 
