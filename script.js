@@ -9,239 +9,225 @@ $(".good").click(function () {
 });
 
 function questionSuivante1() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "block";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "block");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionSuivante2() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "block";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "block");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
+
 }
 
 function questionSuivante3() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "block";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "block");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
+
 }
 
 function questionSuivante4() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "block";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "block");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionSuivante5() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "block";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "block");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
+
 }
 
 function questionSuivante6() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "block";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "block");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
+
 }
 
 function questionSuivante7() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "block";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "block");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
+
 }
 
 function questionSuivante8() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "block";
-    document.getElementById("question10").style.display = "none";
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "block"); $("#question10").css("display", "none");
+
 }
 
 function questionSuivante9() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "block";
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "block");
+
 }
 
-
-
-//------------------------------------------------------
-//Afficher question précédente.
 function questionPrecedente2() {
-    document.getElementById("question1").style.display = "block";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
+    $("#question1").css("display", "block");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
+
 }
 
 function questionPrecedente3() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "block";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "block");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionPrecedente4() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "block";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "block");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionPrecedente5() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "block";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "block");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionPrecedente6() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "block";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "block");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionPrecedente7() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "block";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "block");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionPrecedente8() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "block";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "block");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionPrecedente9() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "block";
-    document.getElementById("question9").style.display = "none";
-    document.getElementById("question10").style.display = "none";
-}
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "block");
+    $("#question9").css("display", "none"); $("#question10").css("display", "none");
 
+}
 function questionPrecedente10() {
-    document.getElementById("question1").style.display = "none";
-    document.getElementById("question2").style.display = "none";
-    document.getElementById("question3").style.display = "none";
-    document.getElementById("question4").style.display = "none";
-    document.getElementById("question5").style.display = "none";
-    document.getElementById("question6").style.display = "none";
-    document.getElementById("question7").style.display = "none";
-    document.getElementById("question8").style.display = "none";
-    document.getElementById("question9").style.display = "block";
-    document.getElementById("question10").style.display = "none";
+    $("#question1").css("display", "none");
+    $("#question2").css("display", "none");
+    $("#question3").css("display", "none");
+    $("#question4").css("display", "none");
+    $("#question5").css("display", "none");
+    $("#question6").css("display", "none");
+    $("#question7").css("display", "none");
+    $("#question8").css("display", "none");
+    $("#question9").css("display", "block"); $("#question10").css("display", "none");
 }
