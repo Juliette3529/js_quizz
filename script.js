@@ -1,12 +1,16 @@
 $(document).ready(function () {
+     var score = 0;
 $(".false").click(function () {
     $(this).css("background", '#B26755');
 });
-
 $(".good").click(function () {
     $(this).css("background", '#55B270');
+    score ++
 });
+$("Felicitations").html('Vous avez'+ score +'/10');
 });
+
+
 
 function questionSuivante1() {
     $("#question1").css("display", "none");
