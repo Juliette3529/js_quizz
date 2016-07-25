@@ -7,7 +7,7 @@ $(document).ready(function () {
                 }
 
             };*/
-    function green () {
+  /*  function green () {
         if($("button").hasClass("good")){
         $(".Reponse_true").css("border", "2px solid green");
     }
@@ -20,6 +20,14 @@ $(document).ready(function () {
                   
     $("button").click(function(){
         green(); red();
+});*/
+$(".false").click(function () {
+    $(this).css("background", '#B26755');
+    $(".good").css("background", '#55B270');
 });
-        });
 
+$(".good").click(function () {
+    $(this).css("background", '#55B270');
+    $(".false").hide();
+});
+});
