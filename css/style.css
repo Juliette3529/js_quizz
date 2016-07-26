@@ -15,12 +15,16 @@ button{
     margin-top:25px;
 }
 
-.none {
-    display:none;
-}
 .Felicitations{
     font-size:22px;
 }
 body{
     background-image: url("bg.jpg");
+}
+#quest1 {
+	display: block;
+}
+
+article {
+	display: none;
 }
